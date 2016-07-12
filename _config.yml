@@ -1,0 +1,14 @@
+layout_spectrum: 0.0227656
+typography_spectrum: 0.005944788
+color:
+  saturation: 0.5956119
+  lightness: 0.5581595
+  brandStrength: 0.9942717
+  brandColors:
+    - '#FFFFFF'
+    - '#040108'
+    - '#9F8F82'
+    - '#587185'
+    - '#493B20'
+  rhythmicContrast: 0.5198035
+name: Moth
