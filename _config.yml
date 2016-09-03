@@ -1,14 +1,26 @@
-layout_spectrum: 0.0227656
+layout_spectrum: 0.7659575
+name: Moth
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.005944788
 color:
-  saturation: 0.5956119
-  lightness: 0.5581595
   brandStrength: 0.9942717
+  saturation: 0.5956119
   brandColors:
     - '#FFFFFF'
     - '#040108'
     - '#9F8F82'
     - '#587185'
     - '#493B20'
+  lightness: 0.5581595
   rhythmicContrast: 0.5198035
-name: Moth
